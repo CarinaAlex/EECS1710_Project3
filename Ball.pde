@@ -7,7 +7,7 @@ class Ball {
   PVector pos = new PVector();
   
   int scatter = 30;
-  int diameter = 20;
+  int diameter = 8;
   
   boolean converged = false;
   

@@ -1,4 +1,4 @@
-int N = 10000;
+int N = 25000;
 Random_Ball[] balls = new Random_Ball[N];
 
 PImage subsection;
